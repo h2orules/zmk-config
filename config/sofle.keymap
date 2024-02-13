@@ -119,7 +119,7 @@
 &none  &none &none &none &none &none                &kp ESC      &kp KP_NUM &kp KP_DIVIDE &kp KP_MULTIPLY &kp KP_SUBTRACT &kp KP_LPAR
 &none  &none &none &none &none &none                &kp CARET    &kp KP_N7  &kp KP_N8     &kp KP_N9       &kp KP_PLUS     &kp KP_RPAR
 &none  &none &none &none &none &none                &kp PRCNT    &kp KP_N4  &kp KP_N5     &kp KP_N6       &kp KP_EQUAL    &kp BSPC
-&none  &none &none &none &none &none &none   &none  &kp KP_COMMA &kp KP_N1  &kp KP_N2     &kp KP_N3       &kp KP_ENTER    &KP_ENTER
+&none  &none &none &none &none &none &none   &none  &kp KP_COMMA &kp KP_N1  &kp KP_N2     &kp KP_N3       &kp KP_ENTER    &kp KP_ENTER
              &none &none &none &none &none   &trans &trans       &kp KP_N0  &kp KP_DOT    &none
             >;
 
